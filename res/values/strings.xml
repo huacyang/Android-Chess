@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, AndroidChessActivity!</string>
+    <string name="app_name">Android Chess</string>
+    
+    <string name="r8c8">File h Rank 8</string>
+    <string name="r8c7">File g Rank 8</string>
+    <string name="r8c6">File f Rank 8</string>
+    <string name="r8c5">File e Rank 8</string>
+    <string name="r8c4">File d Rank 8</string>
+    <string name="r8c3">File c Rank 8</string>
+    <string name="r8c2">File b Rank 8</string>
+    <string name="r8c1">File a Rank 8</string>
+    
+    <string name="r7c8">File h Rank 7</string>
+    <string name="r7c7">File g Rank 7</string>
+    <string name="r7c6">File f Rank 7</string>
+    <string name="r7c5">File e Rank 7</string>
+    <string name="r7c4">File d Rank 7</string>
+    <string name="r7c3">File c Rank 7</string>
+    <string name="r7c2">File b Rank 7</string>
+    <string name="r7c1">File a Rank 7</string>
+    
+    <string name="r6c8">File h Rank 6</string>
+    <string name="r6c7">File g Rank 6</string>
+    <string name="r6c6">File f Rank 6</string>
+    <string name="r6c5">File e Rank 6</string>
+    <string name="r6c4">File d Rank 6</string>
+    <string name="r6c3">File c Rank 6</string>
+    <string name="r6c2">File b Rank 6</string>
+    <string name="r6c1">File a Rank 6</string>
+    
+    <string name="r5c8">File h Rank 5</string>
+    <string name="r5c7">File g Rank 5</string>
+    <string name="r5c6">File f Rank 5</string>
+    <string name="r5c5">File e Rank 5</string>
+    <string name="r5c4">File d Rank 5</string>
+    <string name="r5c3">File c Rank 5</string>
+    <string name="r5c2">File b Rank 5</string>
+    <string name="r5c1">File a Rank 5</string>
+    
+    <string name="r4c8">File h Rank 4</string>
+    <string name="r4c7">File g Rank 4</string>
+    <string name="r4c6">File f Rank 4</string>
+    <string name="r4c5">File e Rank 4</string>
+    <string name="r4c4">File d Rank 4</string>
+    <string name="r4c3">File c Rank 4</string>
+    <string name="r4c2">File b Rank 4</string>
+    <string name="r4c1">File a Rank 4</string>
+    
+    <string name="r3c8">File h Rank 3</string>
+    <string name="r3c7">File g Rank 3</string>
+    <string name="r3c6">File f Rank 3</string>
+    <string name="r3c5">File e Rank 3</string>
+    <string name="r3c4">File d Rank 3</string>
+    <string name="r3c3">File c Rank 3</string>
+    <string name="r3c2">File b Rank 3</string>
+    <string name="r3c1">File a Rank 3</string>
+    
+    <string name="r2c8">File h Rank 2</string>
+    <string name="r2c7">File g Rank 2</string>
+    <string name="r2c6">File f Rank 2</string>
+    <string name="r2c5">File e Rank 2</string>
+    <string name="r2c4">File d Rank 2</string>
+    <string name="r2c3">File c Rank 2</string>
+    <string name="r2c2">File b Rank 2</string>
+    <string name="r2c1">File a Rank 2</string>
+    
+    <string name="r1c8">File h Rank 1</string>
+    <string name="r1c7">File g Rank 1</string>
+    <string name="r1c6">File f Rank 1</string>
+    <string name="r1c5">File e Rank 1</string>
+    <string name="r1c4">File d Rank 1</string>
+    <string name="r1c3">File c Rank 1</string>
+    <string name="r1c2">File b Rank 1</string>
+    <string name="r1c1">File a Rank 1</string>
+    <string name="app_main">++ Welcome to Chess-Less! ++</string>
+    <string name="play">Play</string>
+    <string name="chessless">chessless</string>
+    <string name="replay">Replay</string>
+    <string name="credit">Credit</string>
+    <string name="next">Next</string>
+    <string name="exit">Exit</string>
+    <string name="extra">Extra</string>
+    <string name="chess_activity">++ The Wonders of Chess-Less ++</string>
+    <string name="chess_replay">++ Chess-Less Replay ++</string>
+    <string name="draw">Draw</string>
+    <string name="resign">Resign</string>
+    <string name="undo">Undo</string>
+    <string name="ai">AI</string>
+
+</resources>
